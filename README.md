@@ -7,7 +7,7 @@
 The aim of this project is to create a game without screen allowing to kids to understand computing logic.
 
 Here the project is using to recreate old instrument music with perforated card. Like the Sankyo instrument, see behind.
-<img title="perforated_card_music_instrument_sankyo" alt="sankyo picture" src="/home/kebab/Desktop/music_card_computing_game/documentation/perforated_card_music_instrument_sankyo.jpg" width="450">
+<img title="perforated_card_music_instrument_sankyo" alt="sankyo picture" src="./documentation/perforated_card_music_instrument_sankyo.jpg" width="450">
 
 Instead of to be a mechanical instrument, here it is a electronic one. it measures the tension using 4 column.
 Using paper sheet with whole you can create music note (C, D, E, F, G, L, B)
